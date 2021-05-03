@@ -1,0 +1,7 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2021-0473,A-179687208,RCE,Critical,"8.1, 9, 10, 11",
+CVE-2021-0474,A-177611958,RCE,Critical,"8.1, 9, 10, 11",
+CVE-2021-0476,A-169252501,EoP,High,"9, 10, 11",
+CVE-2021-0477,A-178189250,EoP,High,"8.1, 9, 10, 11",
+CVE-2021-0481,A-172939189,EoP,High,"8.1, 9, 10, 11",
+CVE-2021-0480,A-174493336,ID,High,"8.1, 9, 10, 11",
