@@ -23,3 +23,5 @@ Directories:
 - common - Patches applicable to all platforms
 
 **Note:** Only patches since bulletin 2020-01-01 are generated
+
+**This repository has been forked from github.com/AgentFabulous**
