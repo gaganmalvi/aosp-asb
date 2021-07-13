@@ -68,3 +68,6 @@ python3 main.py --patch-level 2021-02-01 --out-dir common/2021-02-01
 python3 main.py --patch-level 2021-03-01 --out-dir common/2021-03-01
 python3 main.py --patch-level 2021-04-05 --out-dir common/2021-04-05
 python3 main.py --patch-level 2021-05-05 --out-dir common/2021-05-05
+
+python3 main.py --patch-level 2021-07-01 --out-dir common/2021-07-01
+python3 main.py --patch-level 2021-07-01 --android-version 10 --out-dir android-10/2021-07-01

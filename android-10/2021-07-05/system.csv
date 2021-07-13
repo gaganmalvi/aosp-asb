@@ -1,0 +1,13 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0417,A-154319182,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/2b313d61aed6d99cb2a3ac2dad6f7d3993d0b8ac
+CVE-2021-0585,A-184963385,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/system/libfmq/+/7f0e32bd77277a46759eb9f01a493b45c7e9a3c9
+CVE-2021-0586,A-182584940,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Settings/+/42be5cfa1029ff3e3f451289b3368631ed77f4fb
+CVE-2021-0589,A-180939982,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/system/bt/+/fa1c6354aa0fd4af6407e196f0ca6629c5d74ec8
+CVE-2021-0594,A-176445224,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Nfc/+/93068b048d0cab72805ec7dd2020b433c82e5f45
+CVE-2021-0600,A-179042963,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Settings/+/4493d84ab2cbd8c36674fcc4009081850b04a63c
+CVE-2021-0602,A-177573895,EoP,High,"10, 11",https://android.googlesource.com/platform/packages/apps/Settings/+/6eb27a6d0a85598d1d92c94026ae08a1546a2e1a
+CVE-2021-0590,A-175213041,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/63c67f0304d973f8f26e77b866eda2b1d34340d3;https://android.googlesource.com/platform/packages/modules/NetworkStack/+/94eb94069bfcee96196d5409beab86c4b1f0407b
+CVE-2021-0596,A-181346550,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Nfc/+/61750f1181ace3ca390489599e36f0e3b725afb0
+CVE-2021-0597,A-176496502,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/opt/net/voip/+/0e459673aa944d65989181b659c820504117ab51
+CVE-2021-0599,A-175614289,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/1c08e32233fef339af2cfdcd1b801af42bd49615
+CVE-2021-0604,A-179910660,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Bluetooth/+/caf10da52ea7ce198c9e880833b2c2c408f7c740
